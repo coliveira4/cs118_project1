@@ -162,7 +162,6 @@ int main (int argc, char* argv[]) {
     } 
   close(socket_fd);
   freeaddrinfo(addr);
-  printf("Program Exited successfully\n");
   exit(0);
 }
 
