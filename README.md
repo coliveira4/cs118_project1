@@ -15,6 +15,12 @@ Threading is used to handle the multiple files. All the connections are first li
 
 ##Problems and Solutions
 
+Biggest challenge was ordering the function calls correctly so that I could correctly execute the non-blocking and keeping track of timeout. The TA ended up helping us out at discussion with this.
+
+##References
+I referenced my CS111 Project 1 for Socket protocols.
+I referenced the sample code in the spec.
+
 
 
 
